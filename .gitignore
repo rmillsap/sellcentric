@@ -1,0 +1,7 @@
+cache/*
+log/*
+*.log
+*.swp
+*~
+.project
+.DS_Store
